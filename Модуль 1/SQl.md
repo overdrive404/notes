@@ -96,3 +96,7 @@ FULL JOIN orders ON users.id = orders.user_id;
     - Соответствует 2НФ.
     - Нет **транзитивных зависимостей**:  
       неключевые атрибуты зависят только от первичного ключа, а не друг от друга.  
+
+## Полезные ссылки
+- [Видосик объяснение нормальных форм](https://youtu.be/0kq99Y8m0gw?si=y_Tgnj_j6DfUSgzP)
+- [Видосик про уровни изоляций транзакций](https://www.youtube.com/watch?v=yVlCjzJAOOo&list=LL&index=77&t=477s&pp=gAQBiAQB)
